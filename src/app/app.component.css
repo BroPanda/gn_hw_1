@@ -1,0 +1,17 @@
+#user {
+  color: blue;
+  width: 33%;
+  float: left;
+}
+
+#post {
+  color: green;
+  width: 33%;
+  float: left;
+}
+
+#comment {
+  color: saddlebrown;
+  width: 33%;
+  float: left;
+}
